@@ -6,4 +6,4 @@ Version 0.0.1 (Alpha)
 
 *Soon to come...*
 
-Developed in cooperation with Cobalt Networks.
+Developed in cooperation with Cobalt Network.
