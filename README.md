@@ -1,9 +1,7 @@
-Cobalt Launcher
+ForumLauncher
 ==============
 By GrassyMoss
 --------------
 Version 0.0.1 (Alpha)
 
-*Soon to come...*
-
-Developed in cooperation with Cobalt Network.
+ForumLauncher is a desktop application that is used to launch the popular sandbox game Minecraft, and view a xenForo forum.
